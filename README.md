@@ -1,6 +1,7 @@
 # Ejercicios-Consulta-BD
 GUIA 7 SQL
 
+--chupalo ivan
 Ejericio 1
 
 CREATE TABLE medicos_servicio_comunidad
