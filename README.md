@@ -1,6 +1,6 @@
 # Ejercicios-Consulta-BD
 GUIA 7 SQL
-
+-- prueba... 
 Ejericio 1
 
 CREATE TABLE medicos_servicio_comunidad
