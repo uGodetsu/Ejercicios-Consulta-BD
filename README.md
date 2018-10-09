@@ -1,5 +1,5 @@
 # Ejercicios-Consulta-BD
-GUIA 7
+GUIA 7 SQL
 
 Ejericio 1
 
